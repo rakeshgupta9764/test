@@ -1,1 +1,1 @@
-print("Hi")
+print("Hi, it is a second commit.")
